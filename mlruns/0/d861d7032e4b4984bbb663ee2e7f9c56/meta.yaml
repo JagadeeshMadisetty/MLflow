@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DS/MLFlow/pythonProject/mlruns/0/d861d7032e4b4984bbb663ee2e7f9c56/artifacts
+end_time: 1726503450641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d861d7032e4b4984bbb663ee2e7f9c56
+run_name: bald-auk-453
+run_uuid: d861d7032e4b4984bbb663ee2e7f9c56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726503447089
+status: 3
+tags: []
+user_id: Sirisha
